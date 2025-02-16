@@ -6,9 +6,56 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Jan 2025 12:14:19 +0100</pubDate>
-    <lastBuildDate>Sun, 12 Jan 2025 12:14:19 +0100</lastBuildDate>
+    <pubDate>Sun, 16 Feb 2025 15:10:20 +0100</pubDate>
+    <lastBuildDate>Sun, 16 Feb 2025 15:10:20 +0100</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>CtrlReturn &gt;&gt; Jam&amp;Learn 9</title>
+        <description>&lt;h4 id=&quot;ctrlreturn-jamlearn-no-9&quot;&gt;CtrlReturn » Jam&amp;amp;Learn No. 9&lt;/h4&gt;
+
+&lt;p&gt;This time CtrlReturn Distro was introduced to the point I decided to repeat the
+introduction to this Distro next time. As you might guess…bug errors. I went
+back and hopefully fixed all bugs and uploaded the new version. This version and
+any future release is going to be available under Menu » Distro here at ctrlreturn.de&lt;/p&gt;
+
+&lt;p&gt;Just backup your home data (Pictures, Projects, Audio s.o.) before you replace the
+Distro with its newer version, if you did used one version before and you would like
+to use the next version of our Distro.&lt;/p&gt;
+
+&lt;p&gt;Please share software or settings you think would be improve the Distro for others…thanks!&lt;/p&gt;
+
+&lt;p&gt;Next time will be another introduction to our homebrew Distro.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;We continued with a jam session, which recording I unfortunately lost. So now video today :-(&lt;/p&gt;
+
+&lt;p&gt;However, here two points:&lt;/p&gt;
+
+&lt;p&gt;As newbie and otherwise, you can start with following Tutorials to get into Live-Coding
+using Renardo/FoxDot:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;https://renardo.org/learn/renardo/01-introduction/&quot;&gt;Introduction to Renardo/FoxDot&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sara asked for that table of Scales:
+   &lt;a href=&quot;files/FoxDotScales.png&quot;&gt;&lt;img src=&quot;files/FoxDotScales.png&quot; width=&quot;600px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Using flok local server on one laptop made it possible to use other computers without any
+installations whatsoever. We will do this next time again, especially if people participate
+with visual coding like Hydra, or other music live coding packages such as Supercollider,
+TidalCycles or Strudel. C ya next time!&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Feb 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/posts/jam&learn9/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/jam&learn9/</guid>
+        
+        
+        <category>post</category>
+        
+      </item>
     
       <item>
         <title>CtrlReturn &gt;&gt; Jam&amp;Learn 8</title>
