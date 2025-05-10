@@ -106,6 +106,8 @@
                     <li>FoxDot Branch PitchGlitch (as long as Renardo is still in heavy development)</li>
                     <li>Flokly (Start an online or local session with others using the flok server)</li>
                     <li>SuperCollider</li>
+                    <li>TidalCycles</li>
+                    <li>TidalVim</li>
                     <li>Reaper</li>
                     <li>Ardour</li>
                     <li>Audacity</li>
@@ -143,7 +145,8 @@
                 <br>
                 <h3>Instructions</h3>
                 <ol>
-                <p><li>Download iso image archive: <a href="https://mega.nz/file/j2YhATgb#Z6mxtO1v4yzu5MtQFDjdRLNoZrWeNpuUYLcvRGfkYzI">CtrlReturn Distro</a></li></p>
+                <p><li>Version 1 >> Download this to install it straight on an USB or entire Harddrive: <a href="https://mega.nz/file/OygjnChB#TQl9Qtlp0SK0J2i47pPmYIePaAS89W1aQ1Zkp2C3a6Q">MXCtrlReturn Distro</a></li></p>
+                <p><li>Version 2 >> Download this to run it as Live USB and install it onto a second partition: <a href="https://mega.nz/file/TmwznQ7B#H2rBt5BbDtxHXbcSGD8d2kutiPy3OA6zLnOvZgVbsFg">MXCtrlReturn Live ISO</a></li></p>
                 <p><li>Use BalenaEtcher &gt;&gt; Select img.gz file, then USB Drive <a href="https://www.balena.io/etcher/">https://www.balena.io/etcher/</a></li></p>
                 <p><li>After you flashed it, you can extend the partition on your USB Stick. It was necessary to reduce .img.gz file size!</li></p>
                 <img src="files/BalenaEtcherDistro.png" width="720" alt="">
@@ -160,6 +163,25 @@
                 <img src="files/gparted_after.png" width="720" alt="">
                 <p></p>
                 <p><strong>Now you can boot your computer, while holding down e.g. the F12 Key (Can be F8, F10, F7 depend on Computer) in order to enter the Boot Menu. Select your USB Stick.</strong></p>
+                <br>
+                <h1>Dual Boot Options</h1>
+                <p>In order to install MXCtrlReturn onto a second partition on your OS ssd drive, you will need to download Version 2, which is an ISO image.</p>
+                <p>The following guides are taken from the internet. As of lack of mac laptops, we only can point to these guidance, we did not tried it ourselves.</p>
+                <p>If you installed it successfully, please send us a message with comments about your procedure following this guide line.</p>
+                <br>
+                <h2>For Win users</h2>
+                <p>How to set up multi-boot of Windows, Linux and Mac using rEFInd and EasyUEFI:</p>
+                <p><a href="https://www.easyuefi.com/resource/set-up-multi-boot-windows-linux-and-mac-using-refind-and-easyuefi.html">Multiboot Guide</a></p>
+                <br>
+                <h2>For Mac users</h2>
+                <p>The following link will give Mac Users, who want to use our CtrlReturn MX Distro as second boot partition on their mac</p>
+                <p>How to Dual Boot Linux on Your Mac:</p>
+                <p><a href="https://appletoolbox.com/how-to-run-linux-on-mac-a-step-by-step-guide/#Installing_Linux_on_Mac_Using_dual-boot_with_rEFIND">Dualboot Guide</a></p>
+                <br>
+                <h3>Can I boot a OS from an USB stick?</h3>
+                <p>Well...maybe, on some Macs you can boot a Linux distribution. To do this, you need to create a bootable USB drive with the Linux ISO file using a tool like Etcher (explained above).</p>
+                <p>Then, you should disable security features in macOS that prevent booting from external media. You can do this by booting into Recovery Mode, going to Utilities > Startup Security Utility, and setting Secure Boot to "No Security" and External Boot to "Allow booting from external media".</p>
+                <p><a href="https://beebom.com/how-boot-live-linux-usb-mac-guide/">How to Boot Linux USB on Your Mac</a></p>
             </div>
         </div>
     </div>
